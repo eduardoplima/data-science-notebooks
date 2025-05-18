@@ -1,10 +1,7 @@
 # Data Science Notebooks
 
-Welcome to my data science notebook collection. This repository gathers a variety of Python notebooks showcasing practical applications of data science, NLP, machine learning, and data analysis — many of which draw from real-world challenges in public sector audits, legal document analysis, and financial risk assessment.
+This repository gathers a variety of Python notebooks showcasing practical applications of data science, NLP, machine learning, and data analysis — many of which draw from real-world challenges in public sector audits, legal document analysis and financial data.
 
-## 🧠 About Me
-
-I'm Eduardo Lima, a data scientist and IT auditor with 15+ years of experience in public expenditure audits, risk detection, and automation in government processes. I work extensively with Python, pandas, SQL, transformers, and semi-supervised pipelines using tools like Cleanlab, spaCy, and LangChain.
 
 ## 📂 Projects Included
 
